@@ -1,4 +1,5 @@
 baseURL: "https://furuhashin.github.io/portfolio/"
+# baseURL: "https://examplesite.com/"
 title: Portfolio
 paginate: 5
 theme: PaperMod
@@ -51,37 +52,37 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
-    icon: /apple-touch-icon.png
-    iconHeight: 35
+    text: "Furuhashin"
+    # icon: /apple-touch-icon.png
+    # iconHeight: 35
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
+    enabled: true # needs to be explicitly set
+    title: Me
+    subtitle: "Less is more"
+    imageUrl: "https://avatars.githubusercontent.com/u/12698873?v=4"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
     buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
+      - name: Reads
+        url: /posts/reads
+      # - name: Posts
+      #   url: posts
+      # - name: Tags
+      #   url: tags
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "Homeです"
+    Content: ようこそ
 
   socialIcons:
     - name: twitter
       url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/furuhashin/"
 
   analytics:
     google:
@@ -113,15 +114,19 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
+    - identifier: reads
+      name: reads
+      url: /posts/reads/
       weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
-      weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
-      weight: 30
+    # - identifier: categories
+    #   name: categories
+    #   url: /categories/
+    #   weight: 10
+    # - identifier: tags
+    #   name: tags
+    #   url: /tags/
+    #   weight: 20
+    # - identifier: example
+    #   name: example.org
+    #   url: https://example.org
+    #   weight: 30
