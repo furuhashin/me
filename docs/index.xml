@@ -9,7 +9,19 @@
       <link>https://furuhashin.github.io/me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 23 Apr 2022 23:49:10 +0900</lastBuildDate><atom:link href="https://furuhashin.github.io/me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Apr 2022 01:47:48 +0900</lastBuildDate><atom:link href="https://furuhashin.github.io/me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Biography</title>
+      <link>https://furuhashin.github.io/me/posts/biography/</link>
+      <pubDate>Thu, 28 Apr 2022 01:47:48 +0900</pubDate>
+      
+      <guid>https://furuhashin.github.io/me/posts/biography/</guid>
+      <description>Certification   AWS Certified Solutions Architect – Associate(June 30, 2020)
+  AWS Certified Developer – Associate( January 10, 2021)
+  AWS Certified SysOps Administrator – Associate(July 17, 2021)
+  </description>
+    </item>
+    
     <item>
       <title>Reads</title>
       <link>https://furuhashin.github.io/me/posts/reads/</link>

@@ -29,10 +29,10 @@ params:
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
-  ShowReadingTime: true
-  ShowShareButtons: true
-  ShowPostNavLinks: true
-  ShowBreadCrumbs: true
+  ShowReadingTime: false
+  ShowShareButtons: false
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: false
   ShowCodeCopyButtons: false
   disableSpecial1stPost: false
   disableScrollToTop: false
@@ -66,6 +66,8 @@ params:
     imageHeight: 120
     imageTitle: my image
     buttons:
+      - name: Biography
+        url: /posts/biography
       - name: Reads
         url: /posts/reads
       # - name: Posts
@@ -80,7 +82,7 @@ params:
 
   socialIcons:
     - name: twitter
-      url: "https://twitter.com/"
+      url: "https://twitter.com/furuhashi_n_"
     - name: github
       url: "https://github.com/furuhashin/"
 
@@ -114,14 +116,14 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
+    - identifier: biography
+      name: biography
+      url: posts/biography
+      weight: 10
     - identifier: reads
       name: reads
-      url: posts/reads/
+      url: posts/reads
       weight: 10
-    # - identifier: categories
-    #   name: categories
-    #   url: /categories/
-    #   weight: 10
     # - identifier: tags
     #   name: tags
     #   url: /tags/
