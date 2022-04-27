@@ -59,8 +59,8 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: Me
-    subtitle: "Less is more"
+    title: Welcome
+    subtitle: ""
     imageUrl: "https://avatars.githubusercontent.com/u/12698873?v=4"
     imageWidth: 120
     imageHeight: 120
@@ -116,7 +116,7 @@ menu:
   main:
     - identifier: reads
       name: reads
-      url: /posts/reads/
+      url: posts/reads/
       weight: 10
     # - identifier: categories
     #   name: categories
