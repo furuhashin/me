@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://furuhashin.github.io/portfolio/</loc>
+    <loc>https://furuhashin.github.io/me/</loc>
     <lastmod>2022-04-23T23:49:10+09:00</lastmod>
   </url><url>
-    <loc>https://furuhashin.github.io/portfolio/posts/</loc>
+    <loc>https://furuhashin.github.io/me/posts/</loc>
     <lastmod>2022-04-23T23:49:10+09:00</lastmod>
   </url><url>
-    <loc>https://furuhashin.github.io/portfolio/posts/reads/</loc>
+    <loc>https://furuhashin.github.io/me/posts/reads/</loc>
     <lastmod>2022-04-23T23:49:10+09:00</lastmod>
   </url><url>
-    <loc>https://furuhashin.github.io/portfolio/categories/</loc>
+    <loc>https://furuhashin.github.io/me/categories/</loc>
   </url><url>
-    <loc>https://furuhashin.github.io/portfolio/tags/</loc>
+    <loc>https://furuhashin.github.io/me/tags/</loc>
   </url>
 </urlset>

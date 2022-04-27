@@ -1,6 +1,6 @@
-baseURL: "https://furuhashin.github.io/portfolio/"
+baseURL: "https://furuhashin.github.io/me/"
 # baseURL: "https://examplesite.com/"
-title: Portfolio
+title: Me
 paginate: 5
 theme: PaperMod
 canonifyurls: true
