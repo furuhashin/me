@@ -1,5 +1,5 @@
-# baseURL: "https://furuhashin.github.io/me/"
-baseURL: "https://examplesite.com/"
+baseURL: "https://furuhashin.github.io/me/"
+# baseURL: "https://examplesite.com/"
 title: Me
 paginate: 5
 theme: PaperMod
